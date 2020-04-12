@@ -1,21 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
 body {
-    background-image: url('https://csjthewell.org/wp-content/uploads/2017/09/Trivia-Night-p.png');
-    width: 100%;
+    background-color: rgb(80, 79, 79);
+    width: 100%; 
     margin: auto;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    position: static;
-}   
+    /* font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: static;  */
+    background-size: 1100px;
+    background-repeat: no-repeat;
+    
+ 
+}  
+button{
+    width: initial;
+    background-color: #d12a1e;
+    color: #eee;
+    padding: 1rem 2rem;
+    border-radius: .8rem;
+    cursor: pointer;
+    transition: background-color 650ms;
+}
       
 .col-md-4{
     border-style: solid;
     border-color: white;
-    background-color: rgb(25, 122, 202);
+    background-color: rgb(19, 56, 87);
     color: white;
     margin-left: 730px;
     padding-bottom: 185px;
     padding-top: 30px;
     margin-top: 40px;
     
+}
+h1{
+    font-family: 'Chewy';
+}
+h3{
+    font-family: 'Indie Flower';
 }
 
 
@@ -26,7 +50,7 @@ body {
 @media screen and (max-width: 980px) { 
 
     body {
-        background-image: url('../images/DC.jpg');
+        background-color: rgb(80, 79, 79);
         width: 100%;
         margin: auto;
         font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
