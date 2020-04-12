@@ -10,3 +10,5 @@
 <li>If the player chooses the wrong answer, the app tells the player they selected the wrong option, then shows the next question.</li>
 <li>When there are no remaining questions, the final screen shows the number of correct answers, incorrect answers, refresh the page to restart the game.</li>
 </ul>
+
+Test your knowledge and Enjoy: https://jhowell89.github.io/TriviaGame/
