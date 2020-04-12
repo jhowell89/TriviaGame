@@ -23,6 +23,7 @@ button{
     cursor: pointer;
     transition: background-color 650ms;
 }
+
       
 .col-md-4{
     border-style: solid;
@@ -37,9 +38,11 @@ button{
 }
 h1{
     font-family: 'Chewy';
+    color: rgb(28, 163, 28);
 }
 h3{
     font-family: 'Indie Flower';
+    color: indianred;
 }
 
 
