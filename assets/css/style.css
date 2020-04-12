@@ -26,19 +26,27 @@ button{
 
       
 .col-md-4{
-    border-style: solid;
-    border-color: white;
-    background-color: rgb(19, 56, 87);
+    /* border-style: solid;
+    border-color: white; */
+    /* background-color: rgb(19, 56, 87); */
     color: white;
-    margin-left: 730px;
+    margin-left: 550px;
     padding-bottom: 185px;
     padding-top: 30px;
-    margin-top: 40px;
+    margin-top: 120px;
+    text-align: center;
+    -webkit-box-shadow: 0 -14px 28px rgba(207, 19, 19, 0.938), 0 10px 10px rgba(214, 34, 34, 0.973);
+    box-shadow: 0 -2px 29px rgba(175, 174, 174, 0.973), 0 10px 10px rgba(177, 175, 175, 0.856);
     
 }
+.row{
+    position: center;
+}
+
 h1{
     font-family: 'Chewy';
     color: rgb(28, 163, 28);
+    font-size: 8rem;
 }
 h3{
     font-family: 'Indie Flower';
@@ -49,6 +57,7 @@ h3{
 #test{
     color: rgb(218, 197, 15);
 }
+
 
 @media screen and (max-width: 980px) { 
 
